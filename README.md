@@ -1,2 +1,2 @@
 # House-Prices-Prediction
-Predict sales prices and practice feature engineering, RFs, and gradient boosting
+Detailed analysis of house prices in Urban India: Trends and Insights
