@@ -1,0 +1,3 @@
+- Real estate market analysis
+- Build and deploy predictive model
+- Providing insights to various factors influencing house pricing in India Real Estate market
