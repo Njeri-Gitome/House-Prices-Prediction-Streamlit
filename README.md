@@ -1,4 +1,5 @@
 # House-Prices-Prediction
+AI-Powered Property Valuation Model
 Detailed analysis of house prices in Urban India: Trends and Insights
 ## Objectives
 - To estimate the market value of properties based on various features and historical data.
